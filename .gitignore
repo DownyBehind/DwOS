@@ -1,0 +1,7 @@
+# object file 
+/main/*.o
+/main/.depend
+/main/navilnux_elf
+/main/navilnux_gum_elf
+/main/navilnux_gum_img
+/main/navilnux_img
