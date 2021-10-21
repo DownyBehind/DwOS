@@ -1,4 +1,4 @@
-# Compile 및 qemu 실행 방법 
+# How to compile and Run projrct
 </br>
 
 ```
@@ -12,6 +12,6 @@ navilnux/navilnuximg$ sh start.sh
 ```
 
 </br></br></br>
-# Compiler 설치 및 u-boot, ezboot 설치 및 실행 Guide
+# install Compiler, u-boot and ezboot 
 
 https://hwan-shell.tistory.com/97?category=800810
